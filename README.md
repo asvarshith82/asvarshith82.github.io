@@ -9,11 +9,6 @@ A single-file, dependency-free portfolio site.
 ## Run it
 Double-click `index.html`, or drag it into any browser. No build step, no server, no installs.
 
-## Publish it
-- **GitHub Pages:** create a repo, upload `index.html` (keep the file name), Settings → Pages → deploy from `main` / root.
-- **Netlify / Vercel:** drag the folder onto the dashboard, or run `npx vercel`.
-- Keep `uploads/VARSHITH A S (1).pdf` alongside `index.html` so the resume button keeps working, or swap the link for a Google Drive/Notion URL.
-
 ## What's inside
 - **Wordmark** — "VARSHITH A S" drawn as an inline SVG dot-matrix (Nothing-style), with a dot pop-in animation that replays on hover.
 - **Hero** — animated laptop with a live typing terminal.
